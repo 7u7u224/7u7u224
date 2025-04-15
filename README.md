@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- 状态展示 -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=你好呀～;今天开心吗？&font=Roboto&size=28&duration=1000&pause=500&color=000000" />
+<!-- GitHub 统计卡片 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=7u7u224&show_icons=true&theme=yellow"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=你好呀～;今天开心吗？&font=Roboto"/>
+<!-- 打字动画（加速版） -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=你好呀～;今天开心吗？&font=Microsoft+YaHei&size=28&duration=1000&pause=500&color=00AAFF"/>
