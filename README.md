@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 <!-- 状态展示 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=7u7u224&show_icons=true&theme=yellow"/>
 
-<img align='right' src="https://profile-counter.glitch.me/7u7u224/count.svg" width="200">
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=你好呀～;今天开心吗？&font=Roboto"/>
