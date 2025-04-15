@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/Language-Python-green)
 
-![活动图表](https://github-readme-activity-graph.cyclic.app/graph?username=7u7u224&theme=vue)
 
 <img align='right' src="https://profile-counter.glitch.me/7u7u224/count.svg" width="200">
 
