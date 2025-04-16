@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 <!-- 打字动画（加速版） -->
 <img src="https://readme-typing-svg.herokuapp.com/?lines=你好呀～;夜宵吃什么？&font=Microsoft+YaHei&size=28&duration=1000&pause=500&color=00AAFF"/>
 
-<!-- 黄色主题贪吃蛇 -->
-<img src="https://raw.githubusercontent.com/7u7u224/7u7u224/output/yellow-snake.svg" alt="Contribution Snake with Yellow Theme" width="100%"/>
-
-
