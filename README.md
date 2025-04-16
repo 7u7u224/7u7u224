@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- GitHub 统计卡片 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=7u7u224&show_icons=true&theme=yellow"/>
 
+
 <!-- 打字动画（加速版） -->
 <img src="https://readme-typing-svg.herokuapp.com/?lines=你好呀～;欢迎来我的主页看看～&font=Microsoft+YaHei&size=28&duration=500&pause=500&color=00AAFF"/>
 
