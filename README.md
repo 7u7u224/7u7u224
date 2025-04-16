@@ -22,3 +22,10 @@ Here are some ideas to get you started:
 
 <!-- 黄色主题贪吃蛇 -->
 <img src="https://raw.githubusercontent.com/7u7u224/7u7u224/output/yellow-snake.svg" alt="Contribution Snake with Yellow Theme" width="100%"/>
+
+<picture>
+  <!-- 如果不想要深色模式的黑色背景，可以仅提供浅色模式图片 -->
+  <source media="(prefers-color-scheme: light)" srcset="/output/github-snake-light.svg">
+  <!-- 默认情况下加载浅色模式图片 -->
+  <img alt="github-snake" src="/output/github-snake-light.svg">
+</picture>
